@@ -5,3 +5,4 @@ torchvision
 torchaudio
 streamlit===1.19.0
 sentencepiece==0.1.97 
+altair<5

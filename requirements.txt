@@ -4,7 +4,7 @@ torch
 torchvision
 torchaudio
 streamlit===1.19.0
-sentencepiece==0.1.97 
+sentencepiece 
 flair
 altair<5
 

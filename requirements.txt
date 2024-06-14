@@ -1,10 +1,10 @@
 Pillow
-transformers
+transformers==4.26.1
 torch
 torchvision
 torchaudio
-streamlit
-sentencepiece 
+streamlit===1.19.0
+sentencepiece==0.1.97 
 flair
 altair<5
 
